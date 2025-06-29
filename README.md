@@ -1,4 +1,4 @@
-# The Aviator - OpenGL Game
+# Save The Planet! - OpenGL Game
 
 A 3D flight game built with OpenGL/GLUT for a Computer Graphics course.
 
